@@ -1,4 +1,4 @@
-
+import NoteForm from './componets/NoteForm'
 
 function App() {
   
