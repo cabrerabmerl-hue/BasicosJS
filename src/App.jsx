@@ -9,6 +9,7 @@ function App() {
         <h2 className="text-2xl font-bold mb-4 text-center">📖 Notes App</h2>
 
         {/* Entradas controladas en formas */}
+        <NoteForm />
         
       </div>
       
