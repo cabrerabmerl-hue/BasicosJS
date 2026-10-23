@@ -10,7 +10,7 @@ function App() {
 
       {/* Entradas controladas en formas */}
 
-      <NoteForm />
+      <NoteList notes ={[]} /> 
 
     </div>
 
